@@ -34,7 +34,8 @@
       "customized_checkout",
       "enhanced_ecommerce",
       "csrf_protection",
-      "account_payment_methods_v2"
+      "account_payment_methods_v2",
+      "enhanced_ecommerce
     ]
   },
   "css_compiler": "scss",
